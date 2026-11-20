@@ -15,12 +15,13 @@
 
 ### 👾 About me
 
-<img src="./assets/terminal.svg" width="100%" alt="whoami terminal" />
+Product designer who ships. I take work from problem framing to the UI that goes live, and I can build what I design.
 
-- 🎨 I own **product design** end-to-end — from framing the problem to the UI that ships.
-- 🧭 **UI/UX**: research, user flows, wireframes, high-fidelity prototypes, usability testing.
-- 📱 **App UI**: mobile & web interfaces, design systems, components, micro-interactions.
-- 📍 Based in **Shanghai** · 不关我的事
+- 🎨 **Product design**: research, user flows, wireframes, hi-fi prototypes, usability testing
+- 📱 **Mobile & web UI**: design systems, components, micro-interactions
+- 💻 **Design-to-code**: React, TypeScript, Next.js, Tailwind
+- 🗣️ **Languages**: Indonesian (native), English (professional), Mandarin (HSK 2, still learning)
+- 📍 Jakarta, Indonesia (UTC+7) · open to remote worldwide
 
 <div align="center"><img src="./assets/divider.svg" width="100%" /></div>
 
